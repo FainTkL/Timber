@@ -1,0 +1,12 @@
+﻿  HelloSFML.cpp
+c:\program files (x86)\sfml\include\sfml\window\windowhandle.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(114): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(141): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(166): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(187): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john\documents\visual studio stuff\projects\hellosfml\hellosfml\hellosfml.cpp(191): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  HelloSFML.vcxproj -> C:\Users\John\Documents\Visual Studio Stuff\projects\HelloSFML\Debug\HelloSFML.exe
+  HelloSFML.vcxproj -> C:\Users\John\Documents\Visual Studio Stuff\projects\HelloSFML\Debug\HelloSFML.pdb (Full PDB)
